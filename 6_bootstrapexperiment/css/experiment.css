@@ -1,0 +1,17 @@
+p{
+    color: rgb(193, 193, 193);
+}
+
+a{
+    color: black;
+    text-justify: auto;
+    text-size-adjust: unset;
+}
+
+section{
+    text-align: center;
+}
+
+footer{
+    background-color: blanchedalmond;
+}
